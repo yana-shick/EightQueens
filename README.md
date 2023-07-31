@@ -7,7 +7,7 @@ The eight queens puzzle is the problem of placing eight chess queens on an 8×8 
 ## Usage
 
 Click a number in the left menu to represent one of the 92 solutions.
-![Preview](/pages/img/queen-preview-Small.jpg)
+<img src="/pages/img/queen-preview-Small.jpg)" alt= “Preview” width="350px" height="350px">
 
 ## Learning targets
 
